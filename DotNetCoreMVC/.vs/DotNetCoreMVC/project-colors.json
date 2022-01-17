@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6cf8edf2-cba9-42f8-8f2a-04d7f14d15eb": {
+      "ProjectGuid": "6cf8edf2-cba9-42f8-8f2a-04d7f14d15eb",
+      "DisplayName": "DotNetCoreMVC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
